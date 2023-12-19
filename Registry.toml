@@ -5,3 +5,4 @@ description = "DislikePineapple's presonal registry"
 
 [packages]
 7863843b-5d10-4cf2-b9e5-ac583df0c545 = { name = "HydrodynamicStability", path = "H/HydrodynamicStability" }
+7b866d61-8c7f-4d3e-83e5-0c4014fef943 = { name = "HeatingInstability", path = "H/HeatingInstability" }

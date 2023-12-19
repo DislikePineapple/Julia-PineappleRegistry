@@ -1,0 +1,9 @@
+[0]
+FFTW = "1.7.0-1"
+HydrodynamicStability = "0.1"
+Integrals = "4.1.0-4"
+LinearAlgebra = "1.9.0-1"
+ProgressMeter = "1.9.0-1"
+SpecialFunctions = "2.3.0-2"
+UnPack = "1"
+julia = "1.9.0-1"

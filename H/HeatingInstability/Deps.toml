@@ -1,0 +1,8 @@
+[0]
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+HydrodynamicStability = "7863843b-5d10-4cf2-b9e5-ac583df0c545"
+Integrals = "de52edbc-65ea-441a-8357-d3a637375a31"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
