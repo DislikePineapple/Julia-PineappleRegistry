@@ -1,0 +1,6 @@
+name = "PineappleRegistry"
+uuid = "5a7c2e71-7860-499d-a693-29e790959aee"
+repo = "https://github.com/DislikePineapple/Julia-PineappleRegistry.git"
+description = "DislikePineapple's presonal registry"
+
+[packages]
